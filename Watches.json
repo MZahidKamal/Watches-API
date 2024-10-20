@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "brand": "Rolex",
+    "model": "Submariner",
+    "price": 8500,
+    "releasedDate": "2020-06-01"
+  },
+  {
+    "id": 2,
+    "brand": "Omega",
+    "model": "Seamaster",
+    "price": 5200,
+    "releasedDate": "2019-03-15"
+  },
+  {
+    "id": 3,
+    "brand": "Tag Heuer",
+    "model": "Carrera",
+    "price": 3500,
+    "releasedDate": "2021-09-10"
+  },
+  {
+    "id": 4,
+    "brand": "Casio",
+    "model": "G-Shock",
+    "price": 150,
+    "releasedDate": "2022-05-20"
+  },
+  {
+    "id": 5,
+    "brand": "Seiko",
+    "model": "Prospex",
+    "price": 800,
+    "releasedDate": "2021-01-12"
+  },
+  {
+    "id": 6,
+    "brand": "Fossil",
+    "model": "Gen 5",
+    "price": 250,
+    "releasedDate": "2020-08-15"
+  },
+  {
+    "id": 7,
+    "brand": "Apple",
+    "model": "Watch Series 6",
+    "price": 750,
+    "releasedDate": "2020-10-15"
+  },
+  {
+    "id": 8,
+    "brand": "Samsung",
+    "model": "Galaxy Watch 3",
+    "price": 400,
+    "releasedDate": "2020-08-05"
+  },
+  {
+    "id": 9,
+    "brand": "Tissot",
+    "model": "T-Touch",
+    "price": 1000,
+    "releasedDate": "2019-02-20"
+  },
+  {
+    "id": 10,
+    "brand": "Citizen",
+    "model": "Eco-Drive",
+    "price": 300,
+    "releasedDate": "2021-04-10"
+  },
+  {
+    "id": 11,
+    "brand": "Panerai",
+    "model": "Luminor",
+    "price": 7500,
+    "releasedDate": "2018-11-30"
+  },
+  {
+    "id": 12,
+    "brand": "Breitling",
+    "model": "Navitimer",
+    "price": 9000,
+    "releasedDate": "2019-09-25"
+  },
+  {
+    "id": 13,
+    "brand": "Hamilton",
+    "model": "Khaki Field",
+    "price": 550,
+    "releasedDate": "2021-03-05"
+  },
+  {
+    "id": 14,
+    "brand": "Longines",
+    "model": "Master Collection",
+    "price": 3000,
+    "releasedDate": "2020-02-14"
+  },
+  {
+    "id": 15,
+    "brand": "Burberry",
+    "model": "Check Canvas",
+    "price": 1200,
+    "releasedDate": "2020-12-20"
+  }
+]
